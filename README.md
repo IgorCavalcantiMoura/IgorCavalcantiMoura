@@ -18,7 +18,7 @@ Participei da Formação Acelerada em Front End da Softex e da Formação em Tec
   
  - 💼 Atualmente explorando Java, SQL, JavaScript, SpringBoot, React, tailwind e UX Design.
 
-### Linguagns & Ferramentas
+### Linguagens & Ferramentas
 <br>
 <div align ="center">
   
