@@ -38,6 +38,8 @@ Participei da Formação Acelerada em Front End da Softex e da Formação em Tec
 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original-wordmark.svg" width="80" height="80"/>
 
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" width="80" height="80"/>
+
 
 
 </div>
