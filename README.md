@@ -7,7 +7,7 @@
 Desenvolvedor Full Stack Jr. pela Generation Brasil. Formado em Análise e Desenvolvimento de Sistemas pela UNINASSAU. Me formei em Comunicação na Universidade Federal de Pernambuco - UFPE em 2018 e atualmente estou em transição de carreira para a área de Desenvolvimento. Possuo conhecimentos em Java, SQL, JavaScript, SpringBoot, React e Tailwind.
 
 Participei da Formação Acelerada em Front End da Softex e da Formação em TechDesign da Cesar School, onde pude desenvolver habilidades em Product Design e UX Design.
-
+<br>
 ### Sobre mim
 
  - 👨‍💻 Desenvolvedor Full Stack em transição de carreira.
@@ -19,7 +19,9 @@ Participei da Formação Acelerada em Front End da Softex e da Formação em Tec
  - 💼 Atualmente explorando Java, SQL, JavaScript, SpringBoot, React, tailwind e UX Design.
 
 ### Linguagens & Ferramentas
+
 <br>
+
 <div align ="center">
   
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="80" height="80"/>
