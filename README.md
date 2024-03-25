@@ -1,7 +1,7 @@
-## 👋 Olá, Mundo!
-<div>
-<a href="https://www.linkedin.com/in/igor-cavalcanti-moura" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
+<a align ="right" href="https://www.linkedin.com/in/igor-cavalcanti-moura" target="_blank"><img align ="right" loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+## 👋 Olá, Mundo! 
+
+ 
 <br>
 
 Desenvolvedor Full Stack Jr. pela Generation Brasil. Formado em Análise e Desenvolvimento de Sistemas pela UNINASSAU. Me formei em Comunicação na Universidade Federal de Pernambuco - UFPE em 2018 e atualmente estou em transição de carreira para a área de Desenvolvimento. Possuo conhecimentos em Java, SQL, JavaScript, SpringBoot, React e Tailwind.
