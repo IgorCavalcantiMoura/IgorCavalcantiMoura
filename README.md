@@ -1,5 +1,5 @@
 <a align ="right" href="https://www.linkedin.com/in/igor-cavalcanti-moura" target="_blank"><img align ="right" loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-## 👋 Olá, Mundo! 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&random=false&width=435&lines=Hello+World!)](https://git.io/typing-svg) 
 
  
 <br>
