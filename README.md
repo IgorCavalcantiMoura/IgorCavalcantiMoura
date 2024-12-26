@@ -71,7 +71,7 @@ Participei da Formação Acelerada em Front End da Softex e da Formação em Tec
 
 <div align = "center">
 <a href="https://github.com/IgorCavalcantiMoura">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorCavalcantiMoura&layout=compact&langs_count=7&theme=tokyonight"/>
+<!-- <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorCavalcantiMoura&layout=compact&langs_count=7&theme=tokyonight"/> -->
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=IgorCavalcantiMoura&show_icons=true&theme=tokyonight"/>
 
 </div>
