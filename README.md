@@ -19,6 +19,8 @@ Participei da Formação Acelerada em Front End da Softex e da Formação em Tec
  - 💼 Atualmente explorando Java, SQL, JavaScript, SpringBoot, React, tailwind e UX Design.
 
 ### Projetos Destacados
+- [FBR Digital](https://github.com/softexrecifepe/PI-T1-GP1-FBR): O Cadastro de Provedores da FBR Digital é uma aplicação que visa facilitar o cadastro e homologação de provedores de internet na base da FBR Digital. A plataforma permite o registro detalhado dos provedores, incluindo informações de infraestrutura, área de cobertura e serviços oferecidos, proporcionando maior visibilidade para a geração de novas demandas de serviços.
+  
 - [Mercado Delas](https://mercadodelas.netlify.app/): O mercado Delas é um ecommerce que coloca em prática os princípios da ODS 5 da ONU - Igualdade de Gênero, vendendo produtos exclusivamente feitos por mulheres empreendedoras. Possui arquitetura SOFEA e  tecnologias como Java, Spring Boot e Spring Security para o Backend, gerenciando o banco de dados com MySQL e PostgreSQL. No front-end, JavaScript, React e Tailwind. Atuei no projeto como desenvolvedor full stack. 
 
 - [Blog Pesssoal](https://front-blog-pessoal-eta.vercel.app): O Blog Pessoal permite que usuários se cadastrem, façam login, criem temas e postagens. Com arquitetura SOFEA, utilizei tecnologias como Java, Spring Boot e Spring Security para o Backend, gerenciando o banco de dados com MySQL e PostgreSQL. No front-end, implementei JavaScript, React e Tailwind para garantir uma interface dinâmica, responsiva e atrativa.
