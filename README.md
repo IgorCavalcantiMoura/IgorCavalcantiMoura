@@ -4,13 +4,14 @@
  
 <br>
 
-Desenvolvedor Full Stack Jr. pela Generation Brasil. Formado em Análise e Desenvolvimento de Sistemas pela UNINASSAU. Me formei em Comunicação na Universidade Federal de Pernambuco - UFPE em 2018 e atualmente estou em transição de carreira para a área de Desenvolvimento. Possuo conhecimentos em Java, SQL, JavaScript, SpringBoot, React e Tailwind.
+Atualmente atuo como Tech Analyst na Loomi, onde assumo atividades de gestão de projetos para a Vivo, colaborando com equipes multidisciplinares e garantindo entregas alinhadas com as metas de negócio.
+Tenho experiência com Java, TypeScript, Node.js, AWS e Azure DevOps, além de vivência em metodologias ágeis, práticas de UX Design e atualmente curso Pós-graduação em Gestão de Projetos no CESAR School.
+Fui premiado em 2024 por um projeto destaque na Softex, voltado para gestão de provedores de internet. Trago uma bagagem em Comunicação, aliada a habilidades técnicas e de gestão, que impulsionam minha performance em ambientes colaborativos.
 
-Participei da Formação Acelerada em Front End da Softex e da Formação em TechDesign da Cesar School, onde pude desenvolver habilidades em Product Design e UX Design.
 <br>
 ### Sobre mim
 
- - 👨‍💻 Desenvolvedor Full Stack em transição de carreira.
+ - 👨‍💻 Tech Projaect Analyst.
   
  - 🎓 Graduado em Comunicação e Análise e Desevolvimento de Sistemas.
   
